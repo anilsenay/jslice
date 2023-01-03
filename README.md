@@ -1,6 +1,6 @@
 # JSlice
 
-<img src="https://i.ibb.co/9s1s4cv/Frame-2.png" alt="Swagno" align="right" width="300"/>
+<img src="https://i.ibb.co/PjyZ8zL/Frame-2-removebg-preview.png" alt="Swagno" align="right" width="300"/>
 
 JSlice is a Golang package that provides a set of methods to manipulate arrays which are [built-in functions in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array).
 
