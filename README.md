@@ -19,9 +19,7 @@ go get github.com/anilsenay/jslice
 2. Import jslice
 
 ```go
-import (
-  . "github.com/anilsenay/jslice"
-)
+import "github.com/anilsenay/jslice"
 ```
 
 3. Use jslice methods
